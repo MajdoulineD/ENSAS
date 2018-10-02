@@ -1,0 +1,11 @@
+            *{
+                margin: 5px;
+            }
+            body{
+                text-align:center;
+            }
+            p{
+                color:red;
+                font-family: verdana;
+                font-style:italic;
+            }
